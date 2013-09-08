@@ -1,0 +1,16 @@
+
+The purpose of this project is to make an IRC bot for learning.
+
+As an example, a series of cards is provided to learn the capitals of the world.
+
+When a user joins a channel, that this bot is active on; it asks for a capital f.e. 
+
+[14:23] <flashcardbot> France
+[14:23] <you> Paris
+[14:23] <flashcardbot> Correct
+
+After you answer, it keeps asking for other capitals:
+
+[14:24] <flashcardbot> Iceland
+[14:24] <you> Rij
+[14:24] <flashcardbot> False, the correct answer is: Reykjavik
